@@ -1,0 +1,17 @@
+{
+
+	"ancho_ventana" :820,
+	"alto_ventana" : 630,
+
+	"link_tema" : "https://colorhunt.co/palette/2c3333395b64a5c9cae7f6f2",
+	"color_fondo": "#2C3333",
+	"color_principal": "#395B64",
+	"color_complementario" : "#A5C9CA",
+	"color_acento": "#E7F6F2",
+	
+	"link_tema2" : "https://colorhunt.co/palette/0926351b42425c83749ec8b9",
+	"color_fondo2" : "#092635",
+	"color_complementario2": "#3C6255"
+
+
+}
